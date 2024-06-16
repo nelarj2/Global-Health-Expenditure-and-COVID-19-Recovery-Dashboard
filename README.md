@@ -3,15 +3,18 @@
 Datasets Used for Dashboard:
 
 Covid recovery data:
-https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series 
+  - https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series 
   - time_series_covid19_recovered_global.csv
 
 Population data:
-https://data.worldbank.org/indicator/SP.POP.TOTL (2021 populuation used)
+  - https://data.worldbank.org/indicator/SP.POP.TOTL (2021 populuation used)
 
-Current health expenditure data:
-https://www.who.int/data/gho/data/indicators/indicator-details/GHO/current-health-expenditure-(che)-as-percentage-of-gross-domestic-product-(gdp)-(-)
+Health expenditure data:
+  - https://www.who.int/data/gho/data/indicators/indicator-details/GHO/current-health-expenditure-(che)-as-percentage-of-gross-domestic-product-(gdp)-(-)
 
 
-
-Steps for data cleaning/pre-prossesing can be found in the 'Data preprocessing steps.py'
+Steps for data cleaning/pre-prossesing can be found in the 'Data preprocessing steps.ipynb'
+  Files used in tableau
+    - time_series_covid19_recovered_global.csv
+    - population.csv
+    - CHE.csv
