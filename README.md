@@ -14,7 +14,7 @@ Health expenditure data:
 
 
 Steps for data cleaning/pre-prossesing can be found in the 'Data preprocessing steps.ipynb'
-  Files used in tableau
-    - time_series_covid19_recovered_global.csv
-    - population.csv
-    - CHE.csv
+Files used in tableau
+  - time_series_covid19_recovered_global.csv
+  - population.csv
+  - CHE.csv
